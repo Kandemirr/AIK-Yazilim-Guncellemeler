@@ -1,0 +1,7 @@
+*.zip
+*.exe
+*.dll
+*.pdb
+*.db
+*.bak
+license.dat
