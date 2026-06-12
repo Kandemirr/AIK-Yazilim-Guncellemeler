@@ -11,8 +11,8 @@ uygulamalarının yayımlanmış güncelleme paketlerini ve güncel sürüm bilg
 
 ## Güncel sürümler
 
-- Ders Dağıtım Programı: `1.0.2`
-- Dijital Pano: `1.0.1`
+- Ders Dağıtım Programı: `1.0.3`
+- Dijital Pano: `1.0.2`
 
 ## Bu sürümlerdeki yardım yenilikleri
 
@@ -20,3 +20,4 @@ uygulamalarının yayımlanmış güncelleme paketlerini ve güncel sürüm bilg
 - Farklı bilgisayarlar için ortak ağ klasörü kurulumu açıklandı.
 - Dijital Pano otomatik güncelleme ve elle kurulum adımları eklendi.
 - Güncellemede okul verilerinin, lisansın ve yerel ayarların korunacağı belirtildi.
+- Açılış güncelleme denetimleri, güvenlik özeti doğrulaması ve doğru iç sürüm takibi eklendi.

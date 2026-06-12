@@ -1,15 +1,15 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "1.0.2",
-  "releaseDate": "2026-06-12",
+  "version": "1.0.3",
+  "releaseDate": "2026-06-13",
   "mandatory": false,
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.2/AIK_Yazilim_DersDagitim_Setup_1.0.2.exe",
-  "sha256": "4FDE2126D457C75BE555D0C32DEA0BFC383EE5D3798153861A51E0B161434C18",
-  "sizeBytes": 67650445,
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.3/AIK_Yazilim_DersDagitim_Setup_1.0.3.exe",
+  "sha256": "6CDF7C993BA642A69B6E8FC7DA55DE8F76D892505451FCB89A38C3054682B7BF",
+  "sizeBytes": 67648133,
   "notes": [
-    "Yardım bölümüne Dijital Pano nöbetçi aktarımı ayrıntılı olarak eklendi.",
-    "Aynı bilgisayarda doğrudan aktarım ve farklı bilgisayarlarda ortak ağ klasörü kullanımı açıklandı.",
-    "Güncelleme sırasında veritabanı ve lisans bilgilerinin korunması hakkında kullanıcı bilgilendirmesi eklendi.",
-    "Yardım metinlerindeki Türkçe karakterler düzeltildi."
+    "Program açılışına otomatik GitHub güncelleme kontrolü eklendi.",
+    "İndirilen kurulum dosyası boyut ve SHA-256 güvenlik özetiyle doğrulanır.",
+    "Güncelleme mevcut kurulumun üzerine uygulanırken okul verileri ve lisans korunur.",
+    "Uygulama iç sürüm numarası yayımlanan paket sürümüyle eşleştirildi."
   ]
 }

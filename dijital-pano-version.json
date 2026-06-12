@@ -1,5 +1,7 @@
 {
-  "version": "1.0.1",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.1/AIK_Yazilim_DijitalPano_Update_1.0.1.zip",
-  "releaseNotes": "Yardım bölümüne Ders Dağıtım Programından nöbetçi aktarımı, ortak ağ klasörü kurulumu ve GitHub üzerinden program güncelleme adımları eklendi. Yardım metinlerindeki Türkçe karakterler düzeltildi."
+  "version": "1.0.2",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.2/AIK_Yazilim_DijitalPano_Update_1.0.2.zip",
+  "sha256": "91253ADDDCDCB739195EB94ED7D681691DF586956C1C57954D3F67E95E75861B",
+  "sizeBytes": 73333374,
+  "releaseNotes": "Güncelleme indirme süresi artırıldı, Türkçe kodlama hatası kaldırıldı ve uygulama kapandıktan sonra güvenli dosya değiştirme sistemi eklendi. Paket boyutu ve SHA-256 özeti doğrulanır. Uygulama iç sürüm numarası düzeltildi."
 }
