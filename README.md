@@ -1,13 +1,15 @@
 # AİK Yazılım Güncellemeleri
 
-Bu depo, AİK Yazılım Ders Dağıtım Programının yayınlanmış güncelleme
-paketlerini ve güncel sürüm bilgisini barındırır.
+Bu depo, AİK Yazılım Ders Dağıtım Programı ve AİK Yazılım Dijital Pano
+uygulamalarının yayınlanmış güncelleme paketlerini ve güncel sürüm bilgilerini barındırır.
 
 - Kaynak kod bu depoda bulunmaz.
 - Lisans üretici bu depoda yayımlanmaz.
-- Windows `Setup.exe` kurulum ve güncelleme paketleri GitHub Releases bölümündedir.
-- Uygulamanın okuyacağı güncel sürüm bilgisi `version.json` dosyasındadır.
+- Windows kurulum ve güncelleme paketleri GitHub Releases bölümündedir.
+- Ders Dağıtım Programı sürüm bilgisi `version.json` dosyasındadır.
+- Dijital Pano sürüm bilgisi `dijital-pano-version.json` dosyasındadır.
 
-## Güncel sürüm
+## Güncel sürümler
 
-`1.0.0`
+- Ders Dağıtım Programı: `1.0.0`
+- Dijital Pano: `1.0.0`
