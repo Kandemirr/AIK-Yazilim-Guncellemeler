@@ -1,7 +1,7 @@
 # AİK Yazılım Güncellemeleri
 
 Bu depo, AİK Yazılım Ders Dağıtım Programı ve AİK Yazılım Dijital Pano
-uygulamalarının yayınlanmış güncelleme paketlerini ve güncel sürüm bilgilerini barındırır.
+uygulamalarının yayımlanmış güncelleme paketlerini ve güncel sürüm bilgilerini barındırır.
 
 - Kaynak kod bu depoda bulunmaz.
 - Lisans üretici bu depoda yayımlanmaz.
@@ -11,5 +11,12 @@ uygulamalarının yayınlanmış güncelleme paketlerini ve güncel sürüm bilg
 
 ## Güncel sürümler
 
-- Ders Dağıtım Programı: `1.0.1`
-- Dijital Pano: `1.0.0`
+- Ders Dağıtım Programı: `1.0.2`
+- Dijital Pano: `1.0.1`
+
+## Bu sürümlerdeki yardım yenilikleri
+
+- Ders Programından Dijital Panoya nöbetçi öğretmen aktarımı anlatıldı.
+- Farklı bilgisayarlar için ortak ağ klasörü kurulumu açıklandı.
+- Dijital Pano otomatik güncelleme ve elle kurulum adımları eklendi.
+- Güncellemede okul verilerinin, lisansın ve yerel ayarların korunacağı belirtildi.
