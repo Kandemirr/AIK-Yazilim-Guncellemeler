@@ -12,7 +12,7 @@ uygulamalarının yayımlanmış güncelleme paketlerini ve güncel sürüm bilg
 ## Güncel sürümler
 
 - Ders Dağıtım Programı: `1.0.3`
-- Dijital Pano: `1.0.2`
+- Dijital Pano: `1.0.3`
 
 ## Bu sürümlerdeki yardım yenilikleri
 

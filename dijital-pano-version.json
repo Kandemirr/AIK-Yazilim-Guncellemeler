@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.2/AIK_Yazilim_DijitalPano_Update_1.0.2.zip",
-  "sha256": "91253ADDDCDCB739195EB94ED7D681691DF586956C1C57954D3F67E95E75861B",
-  "sizeBytes": 73333374,
-  "releaseNotes": "Güncelleme indirme süresi artırıldı, Türkçe kodlama hatası kaldırıldı ve uygulama kapandıktan sonra güvenli dosya değiştirme sistemi eklendi. Paket boyutu ve SHA-256 özeti doğrulanır. Uygulama iç sürüm numarası düzeltildi."
+  "version": "1.0.3",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.3/AIK_Yazilim_DijitalPano_Update_1.0.3.zip",
+  "sha256": "C7604FFC71A6BD418B6CB96E49D4DDD36C371D2BACEB5D2DDD432B5F4D446C2C",
+  "sizeBytes": 73522100,
+  "releaseNotes": "Dijital Pano uygulama ve kurulum simgesi yenilendi. Yeni AİK simgesi dijital ekran, yayın ve duyuru temasını bir araya getirir; Windows masaüstü ve Başlat menüsü için çok boyutlu olarak hazırlanmıştır."
 }
