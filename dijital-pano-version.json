@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.3/AIK_Yazilim_DijitalPano_Update_1.0.3.zip",
-  "sha256": "C7604FFC71A6BD418B6CB96E49D4DDD36C371D2BACEB5D2DDD432B5F4D446C2C",
-  "sizeBytes": 73522100,
-  "releaseNotes": "Dijital Pano uygulama ve kurulum simgesi yenilendi. Yeni AİK simgesi dijital ekran, yayın ve duyuru temasını bir araya getirir; Windows masaüstü ve Başlat menüsü için çok boyutlu olarak hazırlanmıştır."
+  "version": "1.0.4",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.4/AIK_Yazilim_DijitalPano_Update_1.0.4.zip",
+  "sha256": "79674A38577BC0F4BA0E87F73636D4F56966C01CA3D68BB1ED2516DA7B9BC533",
+  "sizeBytes": 75049716,
+  "releaseNotes": "Yeni AİK Dijital Pano simgesi uygulamanın varsayılan logosuna uygulandı. Masaüstü ve Başlat menüsü kısayolları yeni simgeyle otomatik yenilenir; Windows simge önbelleği de güncellenir."
 }
