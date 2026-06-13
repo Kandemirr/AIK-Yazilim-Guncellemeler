@@ -1,0 +1,171 @@
+{
+  "paketSurumu": "1.0.0",
+  "yayinTarihi": "2026-06-13T00:00:00+03:00",
+  "profiller": [
+    {
+      "kod": "ORTAOKUL-STANDART",
+      "ad": "Ortaokul Standart Programı",
+      "okulTuru": "Ortaokul",
+      "programTuru": "Standart",
+      "egitimOgretimYili": "2025-2026",
+      "gecerliSeviyeler": "5,6,7,8",
+      "paketSurumu": "1.0.0",
+      "kaynakUrl": "https://ttkb.meb.gov.tr/www/haftalik-ders-cizelgeleri/kategori/7",
+      "dersler": []
+    },
+    {
+      "kod": "IHO-STANDART",
+      "ad": "İmam Hatip Ortaokulu Standart Programı",
+      "okulTuru": "İmam Hatip Ortaokulu",
+      "programTuru": "Standart",
+      "egitimOgretimYili": "2025-2026",
+      "gecerliSeviyeler": "5,6,7,8",
+      "paketSurumu": "1.0.0",
+      "kaynakUrl": "https://dogm.meb.gov.tr/",
+      "dersler": []
+    },
+    {
+      "kod": "IHO-PROJE",
+      "ad": "Proje İmam Hatip Ortaokulu Programı",
+      "okulTuru": "İmam Hatip Ortaokulu",
+      "programTuru": "Proje Okulu",
+      "egitimOgretimYili": "2025-2026",
+      "gecerliSeviyeler": "5,6,7,8",
+      "paketSurumu": "1.0.0",
+      "kaynakUrl": "https://dogm.meb.gov.tr/",
+      "dersler": []
+    },
+    {
+      "kod": "IHO-HAFIZLIK",
+      "ad": "Hafızlık Projesi İmam Hatip Ortaokulu",
+      "okulTuru": "İmam Hatip Ortaokulu",
+      "programTuru": "Hafızlık Projesi",
+      "egitimOgretimYili": "2025-2026",
+      "gecerliSeviyeler": "5,6,7,8",
+      "paketSurumu": "1.0.0",
+      "kaynakUrl": "https://dogm.meb.gov.tr/",
+      "dersler": []
+    },
+    {
+      "kod": "ANADOLU-STANDART",
+      "ad": "Anadolu Lisesi Standart Programı",
+      "okulTuru": "Anadolu Lisesi",
+      "programTuru": "Standart",
+      "egitimOgretimYili": "2025-2026",
+      "gecerliSeviyeler": "9,10,11,12",
+      "paketSurumu": "1.0.0",
+      "kaynakUrl": "https://ttkb.meb.gov.tr/www/haftalik-ders-cizelgeleri/kategori/7",
+      "dersler": []
+    },
+    {
+      "kod": "ANADOLU-HAZIRLIK",
+      "ad": "Hazırlık Sınıflı Anadolu Lisesi",
+      "okulTuru": "Anadolu Lisesi",
+      "programTuru": "Hazırlık Sınıfı",
+      "egitimOgretimYili": "2025-2026",
+      "gecerliSeviyeler": "9,10,11,12",
+      "paketSurumu": "1.0.0",
+      "kaynakUrl": "https://ttkb.meb.gov.tr/www/haftalik-ders-cizelgeleri/kategori/7",
+      "dersler": []
+    },
+    {
+      "kod": "FEN-STANDART",
+      "ad": "Fen Lisesi Standart Programı",
+      "okulTuru": "Fen Lisesi",
+      "programTuru": "Standart",
+      "egitimOgretimYili": "2025-2026",
+      "gecerliSeviyeler": "9,10,11,12",
+      "paketSurumu": "1.0.0",
+      "kaynakUrl": "https://ttkb.meb.gov.tr/www/haftalik-ders-cizelgeleri/kategori/7",
+      "dersler": []
+    },
+    {
+      "kod": "AIHL-STANDART",
+      "ad": "Anadolu İmam Hatip Lisesi Standart Programı",
+      "okulTuru": "Anadolu İmam Hatip Lisesi",
+      "programTuru": "Standart",
+      "egitimOgretimYili": "2025-2026",
+      "gecerliSeviyeler": "9,10,11,12",
+      "paketSurumu": "1.0.0",
+      "kaynakUrl": "https://dogm.meb.gov.tr/",
+      "dersler": []
+    },
+    {
+      "kod": "AIHL-PROJE",
+      "ad": "Proje Anadolu İmam Hatip Lisesi",
+      "okulTuru": "Anadolu İmam Hatip Lisesi",
+      "programTuru": "Proje Okulu",
+      "egitimOgretimYili": "2025-2026",
+      "gecerliSeviyeler": "9,10,11,12",
+      "paketSurumu": "1.0.0",
+      "kaynakUrl": "https://dogm.meb.gov.tr/",
+      "dersler": []
+    },
+    {
+      "kod": "AIHL-FEN-SOSYAL",
+      "ad": "Fen ve Sosyal Bilimler Programı Uygulayan AİHL",
+      "okulTuru": "Anadolu İmam Hatip Lisesi",
+      "programTuru": "Fen ve Sosyal Bilimler",
+      "egitimOgretimYili": "2025-2026",
+      "gecerliSeviyeler": "9,10,11,12",
+      "paketSurumu": "1.0.0",
+      "kaynakUrl": "https://dogm.meb.gov.tr/",
+      "dersler": []
+    },
+    {
+      "kod": "AIHL-HAFIZLIK",
+      "ad": "Hafızlık Projesi Uygulayan AİHL",
+      "okulTuru": "Anadolu İmam Hatip Lisesi",
+      "programTuru": "Hafızlık Projesi",
+      "egitimOgretimYili": "2025-2026",
+      "gecerliSeviyeler": "9,10,11,12",
+      "paketSurumu": "1.0.0",
+      "kaynakUrl": "https://dogm.meb.gov.tr/",
+      "dersler": []
+    },
+    {
+      "kod": "MTAL-ANADOLU-MESLEK",
+      "ad": "MTAL Anadolu Meslek Programı",
+      "okulTuru": "Mesleki ve Teknik Anadolu Lisesi",
+      "programTuru": "Anadolu Meslek Programı",
+      "egitimOgretimYili": "2025-2026",
+      "gecerliSeviyeler": "9,10,11,12",
+      "paketSurumu": "1.0.0",
+      "kaynakUrl": "https://meslek.meb.gov.tr/",
+      "dersler": []
+    },
+    {
+      "kod": "MTAL-ANADOLU-TEKNIK",
+      "ad": "MTAL Anadolu Teknik Programı",
+      "okulTuru": "Mesleki ve Teknik Anadolu Lisesi",
+      "programTuru": "Anadolu Teknik Programı",
+      "egitimOgretimYili": "2025-2026",
+      "gecerliSeviyeler": "9,10,11,12",
+      "paketSurumu": "1.0.0",
+      "kaynakUrl": "https://meslek.meb.gov.tr/",
+      "dersler": []
+    },
+    {
+      "kod": "MESLEKI-ANADOLU",
+      "ad": "Mesleki Anadolu Lisesi Programı",
+      "okulTuru": "Mesleki Anadolu Lisesi",
+      "programTuru": "Standart",
+      "egitimOgretimYili": "2025-2026",
+      "gecerliSeviyeler": "9,10,11,12",
+      "paketSurumu": "1.0.0",
+      "kaynakUrl": "https://meslek.meb.gov.tr/",
+      "dersler": []
+    },
+    {
+      "kod": "CPAL-MESLEK",
+      "ad": "ÇPAL Mesleki Programı",
+      "okulTuru": "Çok Programlı Anadolu Lisesi",
+      "programTuru": "Mesleki Program",
+      "egitimOgretimYili": "2025-2026",
+      "gecerliSeviyeler": "9,10,11,12",
+      "paketSurumu": "1.0.0",
+      "kaynakUrl": "https://meslek.meb.gov.tr/",
+      "dersler": []
+    }
+  ]
+}

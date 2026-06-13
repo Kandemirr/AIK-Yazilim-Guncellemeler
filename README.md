@@ -8,6 +8,7 @@ uygulamalarının yayımlanmış güncelleme paketlerini ve güncel sürüm bilg
 - Windows kurulum ve güncelleme paketleri GitHub Releases bölümündedir.
 - Ders Dağıtım Programı sürüm bilgisi `version.json` dosyasındadır.
 - Dijital Pano sürüm bilgisi `dijital-pano-version.json` dosyasındadır.
+- Ders programı müfredat paketinin adresi ve özeti `mufredat-manifest.json` dosyasındadır.
 
 ## Güncel sürümler
 
