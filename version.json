@@ -1,15 +1,15 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "releaseDate": "2026-06-13",
   "mandatory": false,
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.3/AIK_Yazilim_DersDagitim_Setup_1.0.3.exe",
-  "sha256": "6CDF7C993BA642A69B6E8FC7DA55DE8F76D892505451FCB89A38C3054682B7BF",
-  "sizeBytes": 67648133,
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.4/AIK_Yazilim_DersDagitim_Setup_1.0.4.exe",
+  "sha256": "3C2BA58937B5D1DCB9603B53D67F1B7E5C65C4DF26D472B31D9FE8CCF60512FB",
+  "sizeBytes": 67657839,
   "notes": [
-    "Program açılışına otomatik GitHub güncelleme kontrolü eklendi.",
-    "İndirilen kurulum dosyası boyut ve SHA-256 güvenlik özetiyle doğrulanır.",
-    "Güncelleme mevcut kurulumun üzerine uygulanırken okul verileri ve lisans korunur.",
-    "Uygulama iç sürüm numarası yayımlanan paket sürümüyle eşleştirildi."
+    "Okul türünden ayrı program türü, alan, dal ve müfredat profili seçimi eklendi.",
+    "İmam hatip, proje, hafızlık, Anadolu, fen, mesleki ve diğer lise programları için genişletilebilir profil yapısı kuruldu.",
+    "Müfredat paketleri uygulama güncellemesi gerektirmeden otomatik indirilebilir.",
+    "Okula özel müfredat kopyaları ve kullanıcının eklediği dersler otomatik güncellemede korunur."
   ]
 }
