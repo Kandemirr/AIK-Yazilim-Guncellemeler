@@ -1,15 +1,16 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "releaseDate": "2026-06-14",
   "mandatory": false,
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.5/AIK_Yazilim_DersDagitim_Setup_1.0.5.exe",
-  "sha256": "37D98B27C6920FE799DE5F2315312A3CA3595A9574C4EC1FDF53D861720EA625",
-  "sizeBytes": 67664440,
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.6/AIK_Yazilim_DersDagitim_Setup_1.0.6.exe",
+  "sha256": "906B372935B1511F819B0226C4CC84E079F3D9D734164A5ADD1DD277B9054FBD",
+  "sizeBytes": 67662358,
   "notes": [
-    "Okul Bilgileri ekranındaki başlık ve işlem butonlarının üst üste gelmesi düzeltildi.",
-    "Müfredat, üst işlem çubuğu ve program arşivi butonları ayrı ve sabit sütunlara alındı.",
-    "Uzun durum açıklamaları taşmak yerine satıra yayılacak şekilde düzenlendi.",
-    "Dar ekranlarda buton ve metin hizalamaları daha kararlı hale getirildi."
+    "Ders zaman çizelgesi Tam Gün, Sabahçı, Öğlenci ve İkili Öğretim şekline göre gösteriliyor.",
+    "Tam Gün öğretimde öğle arasının yeri ve süresi kullanıcı tarafından ayarlanabiliyor.",
+    "Günlük ders saatleri okul türü varsayılanlarıyla hazırlanıyor ve kullanıcı tarafından değiştirilebiliyor.",
+    "Her sınıf seviyesi için Pazartesi-Cuma günlük ders saati ayrı ayrı tanımlanabiliyor.",
+    "Program motoru, ön kontrol, AI önerileri ve Excel çıktıları sınıf düzeyi saat sınırlarını birlikte uyguluyor."
   ]
 }
