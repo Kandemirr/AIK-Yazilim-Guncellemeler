@@ -1,15 +1,15 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "releaseDate": "2026-06-13",
   "mandatory": false,
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.4/AIK_Yazilim_DersDagitim_Setup_1.0.4.exe",
-  "sha256": "3C2BA58937B5D1DCB9603B53D67F1B7E5C65C4DF26D472B31D9FE8CCF60512FB",
-  "sizeBytes": 67657839,
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.5/AIK_Yazilim_DersDagitim_Setup_1.0.5.exe",
+  "sha256": "37D98B27C6920FE799DE5F2315312A3CA3595A9574C4EC1FDF53D861720EA625",
+  "sizeBytes": 67664440,
   "notes": [
-    "Okul türünden ayrı program türü, alan, dal ve müfredat profili seçimi eklendi.",
-    "İmam hatip, proje, hafızlık, Anadolu, fen, mesleki ve diğer lise programları için genişletilebilir profil yapısı kuruldu.",
-    "Müfredat paketleri uygulama güncellemesi gerektirmeden otomatik indirilebilir.",
-    "Okula özel müfredat kopyaları ve kullanıcının eklediği dersler otomatik güncellemede korunur."
+    "Okul Bilgileri ekranındaki başlık ve işlem butonlarının üst üste gelmesi düzeltildi.",
+    "Müfredat, üst işlem çubuğu ve program arşivi butonları ayrı ve sabit sütunlara alındı.",
+    "Uzun durum açıklamaları taşmak yerine satıra yayılacak şekilde düzenlendi.",
+    "Dar ekranlarda buton ve metin hizalamaları daha kararlı hale getirildi."
   ]
 }
