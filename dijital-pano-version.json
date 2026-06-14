@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.4/AIK_Yazilim_DijitalPano_Update_1.0.4.zip",
-  "sha256": "79674A38577BC0F4BA0E87F73636D4F56966C01CA3D68BB1ED2516DA7B9BC533",
-  "sizeBytes": 75049716,
-  "releaseNotes": "Yeni AİK Dijital Pano simgesi uygulamanın varsayılan logosuna uygulandı. Masaüstü ve Başlat menüsü kısayolları yeni simgeyle otomatik yenilenir; Windows simge önbelleği de güncellenir."
+  "version": "1.0.5",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.5/AIK_Yazilim_DijitalPano_Update_1.0.5.zip",
+  "sha256": "D7ECA86FEF69F2630342CAF56C092903B806FED0DDED5E1F51C73A630CD2C104",
+  "sizeBytes": 75053774,
+  "releaseNotes": "HDMI/VGA ekran bağlandığında pano uygun büyük ekranı otomatik seçer, çözünürlük ve DPI değerine göre tam ekrana yerleşir. Ekran takma veya çıkarma sırasında görünüm kendini yeniler. TV kenar boşluğu elle düzeltme amacıyla korunmuştur. Dijital Pano ilk kurulumda Windows ile otomatik başlayacak şekilde ayarlanır; kullanıcı bu tercihi ayarlardan kapatabilir."
 }
