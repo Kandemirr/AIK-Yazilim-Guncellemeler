@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.5/AIK_Yazilim_DijitalPano_Update_1.0.5.zip",
-  "sha256": "D7ECA86FEF69F2630342CAF56C092903B806FED0DDED5E1F51C73A630CD2C104",
-  "sizeBytes": 75053774,
-  "releaseNotes": "HDMI/VGA ekran bağlandığında pano uygun büyük ekranı otomatik seçer, çözünürlük ve DPI değerine göre tam ekrana yerleşir. Ekran takma veya çıkarma sırasında görünüm kendini yeniler. TV kenar boşluğu elle düzeltme amacıyla korunmuştur. Dijital Pano ilk kurulumda Windows ile otomatik başlayacak şekilde ayarlanır; kullanıcı bu tercihi ayarlardan kapatabilir."
+  "version": "1.0.6",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.6/AIK_Yazilim_DijitalPano_Update_1.0.6.zip",
+  "sha256": "5EA6FD960A6A54B51152A10833BF166900AD341FA22C1E790DAF21814B99DFE0",
+  "sizeBytes": 75099451,
+  "releaseNotes": "Telefonla yerel ağ kontrolü kapsamlı hale getirildi. Kayıtlı telefonlar sonraki girişlerde yalnızca yönetici parolasıyla bağlanabilir. Mobil ekrandan pano ayarları, tema ve paneller, nöbet, zil, medya, duyurular, özel günler, etkinlikler, sözler, yemek listesi, doğum günleri, okul meclisi, özel pano, sunum ayarları ve sistem işlemleri yönetilebilir. Dosya yükleme, kayıtlı telefonu kaldırma ve güvenli cihaz eşleştirme desteği eklendi. HDMI/VGA otomatik ekran seçimi ve Windows ile otomatik başlatma korunmuştur."
 }
