@@ -1,16 +1,16 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "1.0.6",
-  "releaseDate": "2026-06-14",
+  "version": "1.0.7",
+  "releaseDate": "2026-06-20",
   "mandatory": false,
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.6/AIK_Yazilim_DersDagitim_Setup_1.0.6.exe",
-  "sha256": "906B372935B1511F819B0226C4CC84E079F3D9D734164A5ADD1DD277B9054FBD",
-  "sizeBytes": 67662358,
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.7/AIK_Yazilim_DersDagitim_Setup_1.0.7.exe",
+  "sha256": "259D632ED2ADF8F5D4FD553CBA2D55C50892486AC789758646E00094072C5778",
+  "sizeBytes": 67666210,
   "notes": [
-    "Ders zaman çizelgesi Tam Gün, Sabahçı, Öğlenci ve İkili Öğretim şekline göre gösteriliyor.",
-    "Tam Gün öğretimde öğle arasının yeri ve süresi kullanıcı tarafından ayarlanabiliyor.",
-    "Günlük ders saatleri okul türü varsayılanlarıyla hazırlanıyor ve kullanıcı tarafından değiştirilebiliyor.",
-    "Her sınıf seviyesi için Pazartesi-Cuma günlük ders saati ayrı ayrı tanımlanabiliyor.",
-    "Program motoru, ön kontrol, AI önerileri ve Excel çıktıları sınıf düzeyi saat sınırlarını birlikte uyguluyor."
+    "En son onaylı ders programı, kullanıcı onaylı e-Okul aktarım yardımcısı için güvenli JSON paketine dönüştürülebilir.",
+    "Edge ve Chrome yardımcısı yalnızca e-okul.meb.gov.tr alanında çalışır; kullanıcı adı, şifre, CAPTCHA, MEB Ajanda ve diğer e-Okul sayfalarına erişmez.",
+    "Aktarım yardımcısı sınıf, gün, ders saati, ders ve öğretmen alanlarını kullanıcı eşleştirmesiyle doldurur; e-Okul Kaydet düğmesine otomatik basmaz.",
+    "Her güncellemeden önce kurulu uygulama dosyalarının otomatik geri dönüş yedeği alınır.",
+    "Ana menüdeki Güncelleme / Geri Al düğmesiyle önceki uygulama sürümüne dönülebilir; okul veritabanı ve lisans korunur."
   ]
 }
