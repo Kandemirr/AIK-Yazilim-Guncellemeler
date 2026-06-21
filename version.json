@@ -1,16 +1,16 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "releaseDate": "2026-06-20",
   "mandatory": false,
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.7/AIK_Yazilim_DersDagitim_Setup_1.0.7.exe",
-  "sha256": "259D632ED2ADF8F5D4FD553CBA2D55C50892486AC789758646E00094072C5778",
-  "sizeBytes": 67666210,
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.8/AIK_Yazilim_DersDagitim_Setup_1.0.8.exe",
+  "sha256": "EEED411EFBF706E311F22806A37864CF11E0E4E9E3BCA0F744EA7269E5F899B6",
+  "sizeBytes": 67665300,
   "notes": [
-    "En son onaylı ders programı, kullanıcı onaylı e-Okul aktarım yardımcısı için güvenli JSON paketine dönüştürülebilir.",
-    "Edge ve Chrome yardımcısı yalnızca e-okul.meb.gov.tr alanında çalışır; kullanıcı adı, şifre, CAPTCHA, MEB Ajanda ve diğer e-Okul sayfalarına erişmez.",
-    "Aktarım yardımcısı sınıf, gün, ders saati, ders ve öğretmen alanlarını kullanıcı eşleştirmesiyle doldurur; e-Okul Kaydet düğmesine otomatik basmaz.",
-    "Her güncellemeden önce kurulu uygulama dosyalarının otomatik geri dönüş yedeği alınır.",
-    "Ana menüdeki Güncelleme / Geri Al düğmesiyle önceki uygulama sürümüne dönülebilir; okul veritabanı ve lisans korunur."
+    "e-Okul aktarım paketindeki JSON alan adı uyuşmazlığı düzeltildi.",
+    "Yeni tarayıcı yardımcısı hem 1.0.7 ile oluşturulan eski PascalCase paketleri hem de yeni camelCase paketleri okuyabilir.",
+    "Daha önce oluşturduğunuz aktarım JSON dosyasını yeniden oluşturmanız gerekmez.",
+    "Paketlenmemiş Edge veya Chrome eklentisi kuruluysa tarayıcının eklentiler sayfasından bir kez Yeniden Yükle işlemi yapılmalıdır.",
+    "Güncelleme öncesi otomatik geri dönüş yedeği ve Güncelleme / Geri Al özelliği korunmuştur."
   ]
 }
