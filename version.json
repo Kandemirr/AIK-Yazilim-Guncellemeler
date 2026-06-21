@@ -1,17 +1,17 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "releaseDate": "2026-06-21",
   "mandatory": false,
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.11/AIK_Yazilim_DersDagitim_Setup_1.0.11.exe",
-  "sha256": "44E10AF5CC2DE7163EB18B95600BA545B6B80BB83F308BC3F6A25E6F6652AF1D",
-  "sizeBytes": 67677920,
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.12/AIK_Yazilim_DersDagitim_Setup_1.0.12.exe",
+  "sha256": "EE316195B157A8E2451B55037B0535AE490B1F18FABCD0109D3134DA33986C62",
+  "sizeBytes": 67699180,
   "notes": [
-    "Ders seçeneği bulunamadığında boş seçeneğin yanlışlıkla seçilmesine neden olan eşleştirme hatası düzeltildi.",
-    "Tablodaki bütün dersler önceden doğrulanmadan hiçbir hücre değiştirilmez.",
-    "AİK aktarım paketine seçmeli ders bilgisi eklendi.",
-    "Masal ve Destanlarımız veya Kur'an-ı Kerim gibi seçmeli derslerin gerçek adı e-Okul listesinde yoksa SEÇMELİ DERS seçeneği kullanılır.",
-    "Zorunlu dersler hiçbir zaman SEÇMELİ DERS olarak dönüştürülmez.",
+    "Microsoft Edge ve Google Chrome için e-Okul eklenti kurulum ve yönetim penceresi eklendi.",
+    "Edge ve Chrome mağaza bağlantıları uzaktan etkinleştirilebilecek; mağaza yayınına kadar manuel kurulum korunuyor.",
+    "Kullanım kılavuzu e-Okul aktarımı, seçmeli ders eşleştirmesi ve tarayıcı eklentisi adımlarıyla güncellendi.",
+    "Otomatik güncelleme tamamlandığında Ders Dağıtım Programı kendiliğinden yeniden açılır.",
+    "e-Okul seçmeli ders dönüşümü ve boş seçenek güvenliği korunmuştur.",
     "Güncelleme öncesi otomatik geri dönüş yedeği ve Güncelleme / Geri Al özelliği korunmuştur."
   ]
 }
