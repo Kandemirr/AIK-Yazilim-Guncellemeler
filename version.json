@@ -1,17 +1,17 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "releaseDate": "2026-06-21",
   "mandatory": false,
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.10/AIK_Yazilim_DersDagitim_Setup_1.0.10.exe",
-  "sha256": "375CAD2C96D3BF18396674D3FED9BD9FAC3D0BDBE184F0BFF35EDDE24AC55556",
-  "sizeBytes": 67666050,
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.11/AIK_Yazilim_DersDagitim_Setup_1.0.11.exe",
+  "sha256": "44E10AF5CC2DE7163EB18B95600BA545B6B80BB83F308BC3F6A25E6F6652AF1D",
+  "sizeBytes": 67677920,
   "notes": [
-    "e-Okul Haftalık Ders Programı ekranındaki pazartesi-cuma tablosu ve ders sırası satırları otomatik algılanır.",
-    "Seçili Sınıf Tablosunu Doldur düğmesiyle bir sınıfın haftalık ders tablosu tek işlemde hazırlanır.",
-    "Paket açma düğmesi yardımcının sabit üst barına taşındı.",
-    "AİK paketi ile e-Okul ekranındaki sınıf uyuşmazsa tablo değiştirilmeden açık uyarı gösterilir.",
-    "Başarılı ve başarısız hücreler yeşil/kırmızı çerçeveyle işaretlenir; e-Okul Kaydet düğmesine otomatik basılmaz.",
+    "Ders seçeneği bulunamadığında boş seçeneğin yanlışlıkla seçilmesine neden olan eşleştirme hatası düzeltildi.",
+    "Tablodaki bütün dersler önceden doğrulanmadan hiçbir hücre değiştirilmez.",
+    "AİK aktarım paketine seçmeli ders bilgisi eklendi.",
+    "Masal ve Destanlarımız veya Kur'an-ı Kerim gibi seçmeli derslerin gerçek adı e-Okul listesinde yoksa SEÇMELİ DERS seçeneği kullanılır.",
+    "Zorunlu dersler hiçbir zaman SEÇMELİ DERS olarak dönüştürülmez.",
     "Güncelleme öncesi otomatik geri dönüş yedeği ve Güncelleme / Geri Al özelliği korunmuştur."
   ]
 }
