@@ -1,16 +1,16 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "1.0.8",
-  "releaseDate": "2026-06-20",
+  "version": "1.0.9",
+  "releaseDate": "2026-06-21",
   "mandatory": false,
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.8/AIK_Yazilim_DersDagitim_Setup_1.0.8.exe",
-  "sha256": "EEED411EFBF706E311F22806A37864CF11E0E4E9E3BCA0F744EA7269E5F899B6",
-  "sizeBytes": 67665300,
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.9/AIK_Yazilim_DersDagitim_Setup_1.0.9.exe",
+  "sha256": "76FB32014A9793AF467293663CAC47CF5CAD14C21CC26D47AE56A1036F1ECD43",
+  "sizeBytes": 67670642,
   "notes": [
-    "e-Okul aktarım paketindeki JSON alan adı uyuşmazlığı düzeltildi.",
-    "Yeni tarayıcı yardımcısı hem 1.0.7 ile oluşturulan eski PascalCase paketleri hem de yeni camelCase paketleri okuyabilir.",
-    "Daha önce oluşturduğunuz aktarım JSON dosyasını yeniden oluşturmanız gerekmez.",
-    "Paketlenmemiş Edge veya Chrome eklentisi kuruluysa tarayıcının eklentiler sayfasından bir kez Yeniden Yükle işlemi yapılmalıdır.",
+    "e-Okul aktarım yardımcısına çerçeve (iframe) içindeki ders programı formları için destek eklendi.",
+    "Yalnızca ekranda görünen ve kullanılabilir alanlar eşleştirilir; görünmeyen kopya kontroller artık başarı sayılmaz.",
+    "Alan doldurulduktan sonra görünen değer yeniden okunarak doğrulanır. Doğrulanan alan kısa süre yeşil çerçeveyle gösterilir.",
+    "Eski eşleştirmeler yeni sayfadaki görünmeyen alanları gösteriyorsa Eşleştirmeleri Temizle ile silinip görünür alanlar yeniden seçilmelidir.",
     "Güncelleme öncesi otomatik geri dönüş yedeği ve Güncelleme / Geri Al özelliği korunmuştur."
   ]
 }
