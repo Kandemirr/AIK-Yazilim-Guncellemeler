@@ -1,16 +1,17 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "releaseDate": "2026-06-21",
   "mandatory": false,
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.9/AIK_Yazilim_DersDagitim_Setup_1.0.9.exe",
-  "sha256": "76FB32014A9793AF467293663CAC47CF5CAD14C21CC26D47AE56A1036F1ECD43",
-  "sizeBytes": 67670642,
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.10/AIK_Yazilim_DersDagitim_Setup_1.0.10.exe",
+  "sha256": "375CAD2C96D3BF18396674D3FED9BD9FAC3D0BDBE184F0BFF35EDDE24AC55556",
+  "sizeBytes": 67666050,
   "notes": [
-    "e-Okul aktarım yardımcısına çerçeve (iframe) içindeki ders programı formları için destek eklendi.",
-    "Yalnızca ekranda görünen ve kullanılabilir alanlar eşleştirilir; görünmeyen kopya kontroller artık başarı sayılmaz.",
-    "Alan doldurulduktan sonra görünen değer yeniden okunarak doğrulanır. Doğrulanan alan kısa süre yeşil çerçeveyle gösterilir.",
-    "Eski eşleştirmeler yeni sayfadaki görünmeyen alanları gösteriyorsa Eşleştirmeleri Temizle ile silinip görünür alanlar yeniden seçilmelidir.",
+    "e-Okul Haftalık Ders Programı ekranındaki pazartesi-cuma tablosu ve ders sırası satırları otomatik algılanır.",
+    "Seçili Sınıf Tablosunu Doldur düğmesiyle bir sınıfın haftalık ders tablosu tek işlemde hazırlanır.",
+    "Paket açma düğmesi yardımcının sabit üst barına taşındı.",
+    "AİK paketi ile e-Okul ekranındaki sınıf uyuşmazsa tablo değiştirilmeden açık uyarı gösterilir.",
+    "Başarılı ve başarısız hücreler yeşil/kırmızı çerçeveyle işaretlenir; e-Okul Kaydet düğmesine otomatik basılmaz.",
     "Güncelleme öncesi otomatik geri dönüş yedeği ve Güncelleme / Geri Al özelliği korunmuştur."
   ]
 }
