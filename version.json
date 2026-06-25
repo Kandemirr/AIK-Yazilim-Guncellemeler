@@ -1,16 +1,16 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "1.0.13",
-  "releaseDate": "2026-06-25",
+  "version": "1.0.14",
+  "releaseDate": "2026-06-26",
   "mandatory": false,
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.13/AIK_Yazilim_DersDagitim_Setup_1.0.13.exe",
-  "sha256": "4B8F4FEB7132C759E4DC4F10B2FCE0B6B810E4C16CBB07753EB3BFC4C817B68D",
-  "sizeBytes": 67695244,
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.14/AIK_Yazilim_DersDagitim_Setup_1.0.14.exe",
+  "sha256": "D8FB94D1CBAFC04E38E919BF4130BB78A96D648766CE7267D4EC9F2F32B5881D",
+  "sizeBytes": 67695469,
   "notes": [
-    "Güncelleme / Geri Al özelliği program menüsünden kaldırıldı.",
-    "Güncelleme kurulumu artık önceki uygulama sürümü için rollback paketi üretmez.",
-    "Kurulum betiğindeki geri alma hazırlığı temizlendi; okul veritabanı ve lisans dosyası yine korunur.",
-    "Tarayıcı eklentisi mağaza düğmeleri, mağaza bağlantısı yayınlanmadan bekleme/pasif kalma durumunu daha açık gösterir.",
-    "Kullanım kılavuzundaki güncelleme sonrası yönlendirmeler yeni yapıya göre güncellendi."
+    "Dersler ekranına Proje / Özel Ders Havuzu eklendi.",
+    "Proje okulları için dil, konuşma, yazma, bilim, teknoloji, dinî ilimler, sanat, spor ve sosyal beceri dersleri öneri havuzu olarak sunulur.",
+    "Speaking, Skills, Reading, Writing, Listening, Hitabet, Akıl ve Zeka Oyunları, Robotik Kodlama, Siyer, Hadis, Tefsir, Fıkıh ve benzeri dersler kullanıcı onayıyla ders listesine eklenebilir.",
+    "Proje dersleri artık arka planda otomatik eklenmez; kullanıcı seçtiği dersleri kendi okul profiline ekler.",
+    "Yeni proje dersleri için kısa adlar güncellendi; tablo ve Excel çıktılarında daha kompakt görünür."
   ]
 }
