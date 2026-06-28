@@ -1,6 +1,6 @@
 {
   "version": "1.0.4",
-  "durum": "Edge ve Chrome mağaza yayınları hazırlanıyor.",
+  "durum": "Chrome Web Store yayını hazır. Microsoft Edge mağaza yayını hazırlanıyor.",
   "edgeStoreUrl": "",
-  "chromeStoreUrl": ""
+  "chromeStoreUrl": "https://chromewebstore.google.com/detail/ai%CC%87k-e-okul-ders-program%C4%B1/fllkhmgbcbabkconehkbgfdkcgmpcghh?authuser=0&hl=tr"
 }
