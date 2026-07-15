@@ -1,16 +1,16 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "1.0.14",
-  "releaseDate": "2026-06-26",
+  "version": "1.0.15",
+  "releaseDate": "2026-07-16",
   "mandatory": false,
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.14/AIK_Yazilim_DersDagitim_Setup_1.0.14.exe",
-  "sha256": "D8FB94D1CBAFC04E38E919BF4130BB78A96D648766CE7267D4EC9F2F32B5881D",
-  "sizeBytes": 67695469,
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.15/AIK_Yazilim_DersDagitim_Setup_1.0.15.exe",
+  "sha256": "93AA3B66327E769714741ADC607EFB0E7B2548FA1B34C4F229DC58050B48985B",
+  "sizeBytes": 93520507,
   "notes": [
-    "Dersler ekranına Proje / Özel Ders Havuzu eklendi.",
-    "Proje okulları için dil, konuşma, yazma, bilim, teknoloji, dinî ilimler, sanat, spor ve sosyal beceri dersleri öneri havuzu olarak sunulur.",
-    "Speaking, Skills, Reading, Writing, Listening, Hitabet, Akıl ve Zeka Oyunları, Robotik Kodlama, Siyer, Hadis, Tefsir, Fıkıh ve benzeri dersler kullanıcı onayıyla ders listesine eklenebilir.",
-    "Proje dersleri artık arka planda otomatik eklenmez; kullanıcı seçtiği dersleri kendi okul profiline ekler.",
-    "Yeni proje dersleri için kısa adlar güncellendi; tablo ve Excel çıktılarında daha kompakt görünür."
+    "Hesap ve Yedekleme ekranı eklendi.",
+    "Şifreli yedek oluşturma, AİK'e gönderme, bekleyen yedekleri gönderme ve yedeği geri yükleme desteği eklendi.",
+    "Yedek gönderiminde Türkçe karakterli okul adı ve yetkili kişi bilgilerinden kaynaklanan HTTP başlık hatası düzeltildi.",
+    "Gönderilemeyen yedekler kuyrukta saklanır ve program açıldıkça yeniden gönderilmeye çalışılır.",
+    "e-Okul aktarım yardımcısı ve son ders programı düzenlemeleri korunmuştur."
   ]
 }
