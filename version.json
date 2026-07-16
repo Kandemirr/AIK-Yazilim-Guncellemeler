@@ -1,16 +1,16 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "releaseDate": "2026-07-16",
   "mandatory": false,
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.15/AIK_Yazilim_DersDagitim_Setup_1.0.15.exe",
-  "sha256": "93AA3B66327E769714741ADC607EFB0E7B2548FA1B34C4F229DC58050B48985B",
-  "sizeBytes": 93520507,
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.16/AIK_Yazilim_DersDagitim_Setup_1.0.16.exe",
+  "sha256": "F1B4AEB0848DD65229681D940794DAE078D87A207BB7D65A895610A525AACE62",
+  "sizeBytes": 67987980,
   "notes": [
-    "Hesap ve Yedekleme ekranı eklendi.",
-    "Şifreli yedek oluşturma, AİK'e gönderme, bekleyen yedekleri gönderme ve yedeği geri yükleme desteği eklendi.",
-    "Yedek gönderiminde Türkçe karakterli okul adı ve yetkili kişi bilgilerinden kaynaklanan HTTP başlık hatası düzeltildi.",
-    "Gönderilemeyen yedekler kuyrukta saklanır ve program açıldıkça yeniden gönderilmeye çalışılır.",
-    "e-Okul aktarım yardımcısı ve son ders programı düzenlemeleri korunmuştur."
+    "Lisans deneme süresi 100 gün olarak güncellendi.",
+    "Kullanım kılavuzuna Hesap ve Yedekleme bölümü eklendi.",
+    "Yedek oluşturma, AİK'e gönderme, bekleyen yedekleri gönderme ve yedeği geri yükleme adımları kılavuzda ayrıntılandırıldı.",
+    "Sık sorulan sorular bölümüne yedek gönderim kuyruğu ve 100 günlük deneme süresi açıklamaları eklendi.",
+    "Kılavuzdaki günlük boşluk varsayılanı 2 ders saati olarak düzeltildi."
   ]
 }
