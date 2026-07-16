@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.6/AIK_Yazilim_DijitalPano_Update_1.0.6.zip",
-  "sha256": "5EA6FD960A6A54B51152A10833BF166900AD341FA22C1E790DAF21814B99DFE0",
-  "sizeBytes": 75099451,
-  "releaseNotes": "Telefonla yerel ağ kontrolü kapsamlı hale getirildi. Kayıtlı telefonlar sonraki girişlerde yalnızca yönetici parolasıyla bağlanabilir. Mobil ekrandan pano ayarları, tema ve paneller, nöbet, zil, medya, duyurular, özel günler, etkinlikler, sözler, yemek listesi, doğum günleri, okul meclisi, özel pano, sunum ayarları ve sistem işlemleri yönetilebilir. Dosya yükleme, kayıtlı telefonu kaldırma ve güvenli cihaz eşleştirme desteği eklendi. HDMI/VGA otomatik ekran seçimi ve Windows ile otomatik başlatma korunmuştur."
+  "version": "1.0.7",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.7/AIK_Yazilim_DijitalPano_Update_1.0.7.zip",
+  "sha256": "AA325BC27EA3C4FA05F6E959E0E268DD7B037F5990602F425AE1115396480DA6",
+  "sizeBytes": 75083898,
+  "releaseNotes": "Lisans deneme süresi 100 gün olarak güncellendi. Yardım bölümüne Telefonla Yerel Ağ Kontrolü anlatımı eklendi. Mobil kontrol için aynı yerel ağ, eşleştirme kodu, kayıtlı telefonlar, yönetici parolası ve erişilebilen pano ayarları açıklandı. Lisans ve genel ipuçları metinleri güncellendi."
 }
