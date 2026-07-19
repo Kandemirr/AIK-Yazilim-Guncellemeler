@@ -1,15 +1,15 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "1.0.18",
-  "releaseDate": "2026-07-19",
+  "version": "1.0.19",
+  "releaseDate": "2026-07-20",
   "mandatory": false,
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.18/AIK_Yazilim_DersDagitim_Setup_1.0.18.exe",
-  "sha256": "41983F6D788FF9C8C9D922A669234BD8FD9C0D6A92C5547B4C8E9DB9ACD41EB7",
-  "sizeBytes": 67993659,
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.19/AIK_Yazilim_DersDagitim_Setup_1.0.19.exe",
+  "sha256": "1707472B274BCE7B686D4D13A1C410B01DAE92FD69CE2BC897462D948DAD6144",
+  "sizeBytes": 67999059,
   "notes": [
-    "Bekleyen yedeklerin program açıkken otomatik olarak tekrar gönderilmesi sağlandı.",
-    "Program açılış penceresi ekranın kullanılabilir alanına göre ortalanacak şekilde düzeltildi.",
-    "Güncelleme sırasında indirme ve doğrulama ilerleme ekranı eklendi.",
-    "Menüler arası geçişte gereksiz tekrar veri yüklemeleri azaltılarak geçişler hızlandırıldı."
+    "Ders Atamaları ve Program Oluşturma ekranlarında açılışı engelleyen rapor tablosu hatası düzeltildi.",
+    "Otomatik yedekleme seçeneklerinde Türkçe karakter uyumsuzluğu giderildi.",
+    "Güncelleme, yedekleme ve karşılama raporu metinlerindeki Türkçe karakter bozulmaları temizlendi.",
+    "Bekleyen yedeklerin program açıkken otomatik olarak tekrar gönderilmesi korundu."
   ]
 }
