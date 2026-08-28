@@ -1,15 +1,15 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "1.0.19",
-  "releaseDate": "2026-07-20",
+  "version": "1.0.20",
+  "releaseDate": "2026-08-28",
   "mandatory": false,
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.19/AIK_Yazilim_DersDagitim_Setup_1.0.19.exe",
-  "sha256": "1707472B274BCE7B686D4D13A1C410B01DAE92FD69CE2BC897462D948DAD6144",
-  "sizeBytes": 67999059,
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.20/AIK_Yazilim_DersDagitim_Setup_1.0.20.exe",
+  "sha256": "7890979C005498DEE2798AF81294AC2EFC2AC2398CD3265EA117DFFED0A7C043",
+  "sizeBytes": 67986787,
   "notes": [
-    "Ders Atamaları ve Program Oluşturma ekranlarında açılışı engelleyen rapor tablosu hatası düzeltildi.",
-    "Otomatik yedekleme seçeneklerinde Türkçe karakter uyumsuzluğu giderildi.",
-    "Güncelleme, yedekleme ve karşılama raporu metinlerindeki Türkçe karakter bozulmaları temizlendi.",
-    "Bekleyen yedeklerin program açıkken otomatik olarak tekrar gönderilmesi korundu."
+    "Öğretmen Excel aktarımı artık sütun sırasından bağımsız olarak ad-soyad, branş ve görev/kadro başlıklarını otomatik bulur.",
+    "Başlık satırı ilk 20 satır içinde otomatik algılanır; farklı başlık yazımları ve Türkçe karakterler desteklenir.",
+    "Excel'de saat sütunları bulunmasa da öğretmenler minimum 0, maksimum 30 saat değerleriyle aktarılır.",
+    "Kadro durumu ve görev türü alanlarındaki ders ücreti karşılığı bilgisi otomatik tanınır."
   ]
 }
