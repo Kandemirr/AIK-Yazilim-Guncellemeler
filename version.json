@@ -1,11 +1,11 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "1.0.23",
-  "releaseDate": "2026-08-29",
+  "version": "1.0.24",
+  "releaseDate": "2026-08-30",
   "mandatory": false,
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.23/AIK_Yazilim_DersDagitim_Setup_1.0.23.exe",
-  "sha256": "844CBB44C4078BD7CF73E82181319F09828AB8A0AF243836D8C389A8CC8D374F",
-  "sizeBytes": 67988901,
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.24/AIK_Yazilim_DersDagitim_Setup_1.0.24.exe",
+  "sha256": "EB5EEA1901C399828B07AF7D2789C64CD838FCE1B61C66D8129E4F3A5C51C480",
+  "sizeBytes": 67996609,
   "notes": [
     "Öğretmen Excel aktarımı artık sütun sırasından bağımsız olarak ad-soyad, branş ve görev/kadro başlıklarını otomatik bulur.",
     "Başlık satırı ilk 20 satır içinde otomatik algılanır; farklı başlık yazımları ve Türkçe karakterler desteklenir.",
@@ -14,6 +14,8 @@
     "Excel aktarımında aynı ad-soyad ve branşa sahip öğretmenlerin kimlikleri korunarak bilgileri güncellenir.",
     "Yeni listede bulunmayan eski öğretmenler kaldırılır, yeni öğretmenler eklenir.",
     "Öğretmen kimlikleri korunduğu için ders programındaki kısayol ve sağ tık işlemlerinin bağlantıları bozulmaz.",
-    "Öğretmen programındaki Tam Gün derslerinde F3/Delete, sağ tıkla ders kaldırma ve dolu slota bağlı kısayollar düzeltildi."
+    "Öğretmen programındaki Tam Gün derslerinde F3/Delete, sağ tıkla ders kaldırma ve dolu slota bağlı kısayollar düzeltildi.",
+    "Yoğunluk tablosunda yalnızca haftalık ders ataması bulunan öğretmenler hesaplamalara dahil edilir.",
+    "Hiç ders verilmeyen öğretmenler yoğunluk paydasından, vardiya toplamlarından ve kritik slot analizinden çıkarıldı."
   ]
 }
