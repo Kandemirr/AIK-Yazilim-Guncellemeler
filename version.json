@@ -1,17 +1,15 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "1.0.30",
-  "releaseDate": "2026-09-02",
+  "version": "1.0.31",
+  "releaseDate": "2026-09-03",
   "mandatory": false,
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.30/AIK_Yazilim_DersDagitim_Setup_1.0.30.exe",
-  "sha256": "52BA5D50C7580D10AD1769AA113B97FF31628122A989B1EEFC41361F13CF483A",
-  "sizeBytes": 67992396,
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.31/AIK_Yazilim_DersDagitim_Setup_1.0.31.exe",
+  "sha256": "122BF488B50C23C8F72E9D51E479F5DA795C588D5BB5A84A07373C4057CB1D82",
+  "sizeBytes": 68007368,
   "notes": [
-    "Excel ders adlarında kesme işareti, tire, boşluk ve Türkçe karakter farkları desteklenir.",
-    "Kur'an-ı Kerim; Kuranı Kerim, KURAN-I KERİM ve benzeri yazımlarla doğru eşleştirilir.",
-    "Belirsiz ders adları artık yanlış bir seçmeli derse bağlanmaz; kullanıcıya hata olarak bildirilir.",
-    "Excel'de seçmeli dersi belirtilen sınıflardaki eski ve listede olmayan seçmeli ders kayıtları temizlenir.",
-    "7. sınıf Çevre Eğitimi ve İklim Değişikliği atamalarında kalan eski Kur'an-ı Kerim kaydı sorunu giderildi.",
-    "Ders hücresine YOK yazılması hata sayılmaz."
+    "Dolu bir program hücresindeki kilit artık dersi aynı gün ve saatte sabit tutar.",
+    "Boş hücre kilitleri o saati kullanıma kapatmaya devam eder.",
+    "Mevcut kilit kayıtları geriye uyumlu biçimde yorumlanır.",
+    "Ders sabitleme ve boş saat kilitleme seçenekleri daha açık adlandırıldı."
   ]
 }
