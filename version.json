@@ -1,15 +1,15 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "1.0.34",
+  "version": "1.0.35",
   "releaseDate": "2026-09-03",
   "mandatory": false,
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.34/AIK_Yazilim_DersDagitim_Setup_1.0.34.exe",
-  "sha256": "737F6CEFAA4B2672EE7043ADB6C21C27F8AC08684E36B34E6C7089956E77EEA0",
-  "sizeBytes": 67999184,
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.35/AIK_Yazilim_DersDagitim_Setup_1.0.35.exe",
+  "sha256": "A990C2F78CC5A076D960E540AB473EB88A4B942EE44A233FB83DE2358A585966",
+  "sizeBytes": 68004470,
   "notes": [
-    "Sabit dersli program artık tam yerleştirme motoruyla oluşturulur.",
-    "Sabit dersler bütün onarım aşamalarından sonra özgün slotlarında doğrulanır.",
-    "Ana kesin çözüm motoruna ayrılan süre artırıldı ve 90 saniyelik onarım sınırı kaldırıldı.",
-    "Özel ayarlar korunduğu sürece sabit dersler silinmez veya boş kilide dönüşmez."
+    "Sabit dersler mevcut program olarak değil CP-SAT zorunluluğu olarak işlenir.",
+    "Kalan derslerin tamamı normal sıfırdan program oluşturma akışında yerleştirilir.",
+    "Otomatik onarım yalnızca tam oluşturma sonrasında gerçek eksik kalırsa başlar.",
+    "Sabit derslerin özgün slotları sonuç kabul edilmeden doğrulanır."
   ]
 }
