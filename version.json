@@ -1,15 +1,15 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "1.0.33",
+  "version": "1.0.34",
   "releaseDate": "2026-09-03",
   "mandatory": false,
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.33/AIK_Yazilim_DersDagitim_Setup_1.0.33.exe",
-  "sha256": "65BCB7AEED9A9DB8C1E59656530CD113545ED93A24D46BC990D1CA164200E350",
-  "sizeBytes": 68003362,
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.34/AIK_Yazilim_DersDagitim_Setup_1.0.34.exe",
+  "sha256": "737F6CEFAA4B2672EE7043ADB6C21C27F8AC08684E36B34E6C7089956E77EEA0",
+  "sizeBytes": 67999184,
   "notes": [
-    "Özel ayarlar korunursa sabit dersler program silindikten sonra da korunur.",
-    "Sabit dersin sınıf, ders, öğretmen, gün, saat ve vardiya bilgileri kalıcı saklanır.",
-    "Mevcut kilitli hücreye yerleştirilen ders sabit ders kaydına dönüştürülür.",
-    "Özel ayarları temizle seçeneği sabit dersleri kaldırmaya devam eder."
+    "Sabit dersli program artık tam yerleştirme motoruyla oluşturulur.",
+    "Sabit dersler bütün onarım aşamalarından sonra özgün slotlarında doğrulanır.",
+    "Ana kesin çözüm motoruna ayrılan süre artırıldı ve 90 saniyelik onarım sınırı kaldırıldı.",
+    "Özel ayarlar korunduğu sürece sabit dersler silinmez veya boş kilide dönüşmez."
   ]
 }
