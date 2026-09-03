@@ -1,15 +1,15 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "1.0.32",
+  "version": "1.0.33",
   "releaseDate": "2026-09-03",
   "mandatory": false,
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.32/AIK_Yazilim_DersDagitim_Setup_1.0.32.exe",
-  "sha256": "515B87684944B62EDA2BED9C30D9D3F0D212D6146A5F3C18B4D1FFAC9C7758C9",
-  "sizeBytes": 68006315,
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.33/AIK_Yazilim_DersDagitim_Setup_1.0.33.exe",
+  "sha256": "65BCB7AEED9A9DB8C1E59656530CD113545ED93A24D46BC990D1CA164200E350",
+  "sizeBytes": 68003362,
   "notes": [
-    "Sabit ders bilgileri kilit kaydında kalıcı olarak korunur.",
-    "Ön kontrol sabit dersleri boş kilit olarak değerlendirmez.",
-    "Program sıfırdan oluşturulduğunda sabit dersler boş kilide dönüşmez.",
-    "Önceki dolu kilitler otomatik olarak kalıcı sabit derse dönüştürülür."
+    "Özel ayarlar korunursa sabit dersler program silindikten sonra da korunur.",
+    "Sabit dersin sınıf, ders, öğretmen, gün, saat ve vardiya bilgileri kalıcı saklanır.",
+    "Mevcut kilitli hücreye yerleştirilen ders sabit ders kaydına dönüştürülür.",
+    "Özel ayarları temizle seçeneği sabit dersleri kaldırmaya devam eder."
   ]
 }
