@@ -1,15 +1,16 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "1.0.35",
-  "releaseDate": "2026-09-03",
+  "version": "1.0.36",
+  "releaseDate": "2026-09-04",
   "mandatory": false,
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.35/AIK_Yazilim_DersDagitim_Setup_1.0.35.exe",
-  "sha256": "A990C2F78CC5A076D960E540AB473EB88A4B942EE44A233FB83DE2358A585966",
-  "sizeBytes": 68004470,
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.36/AIK_Yazilim_DersDagitim_Setup_1.0.36.exe",
+  "sha256": "3C6B90E8049FF28223C405EE11AD805BA8533181DD825CFA4FE4E1CBC63B6B87",
+  "sizeBytes": 68007821,
   "notes": [
-    "Sabit dersler mevcut program olarak değil CP-SAT zorunluluğu olarak işlenir.",
-    "Kalan derslerin tamamı normal sıfırdan program oluşturma akışında yerleştirilir.",
-    "Otomatik onarım yalnızca tam oluşturma sonrasında gerçek eksik kalırsa başlar.",
-    "Sabit derslerin özgün slotları sonuç kabul edilmeden doğrulanır."
+    "Program motoru sabit sıralı, sıfırdan CP-SAT üretim akışına geçirildi.",
+    "Otomatik tekrar onarım döngüsü kaldırıldı; genişletilmiş onarım kullanıcı onayıyla yalnızca bir kez çalışır.",
+    "Sürükle-bırak, yeşil-turuncu-kırmızı hedef göstergeleri, sabit ve boş kilit simgeleri eklendi.",
+    "Geri al/ileri al, hızlı arama, 8 aşamalı ilerleme ve Neden Yerleşmedi raporu eklendi.",
+    "Sağ tık menüsü aday hesapları gecikmeli yüklenerek hızlandırıldı."
   ]
 }
