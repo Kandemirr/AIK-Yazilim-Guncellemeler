@@ -1,15 +1,15 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "1.0.37",
+  "version": "1.0.38",
   "releaseDate": "2026-09-04",
   "mandatory": false,
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.37/AIK_Yazilim_DersDagitim_Setup_1.0.37.exe",
-  "sha256": "B69651991B1D755598A3364E97C61D3751C911580AB0759C692230C5132757E2",
-  "sizeBytes": 68004015,
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.38/AIK_Yazilim_DersDagitim_Setup_1.0.38.exe",
+  "sha256": "F76E700D7088A337C662DA5EB827E78D893EA2BA48E11720BC0014115FE8DCF8",
+  "sizeBytes": 68005305,
   "notes": [
-    "1.0.35 kararlı program davranışına geri dönüldü.",
-    "1.0.36 ile eklenen geniş kapsamlı motor ve kullanıcı arayüzü değişiklikleri kaldırıldı.",
-    "Neden Yerleşmedi incelemesi AI Analiz Asistanı üzerinden yapılmaya devam eder.",
-    "1.0.36 kullanan bilgisayarların da güncellemeyi alması için sürüm 1.0.37 olarak yayımlandı."
+    "Kısmen yerleşen derslerde kalan blok saati doğru hesaplanıyor.",
+    "2+1 dağılımının 2 saati yerleşmişse kalan 1 saat tek slota yerleştirilebilir.",
+    "Sağ tık aday listesi ve AI Analiz Asistanı aynı kalan-blok hesabını kullanıyor.",
+    "Rehberlik kuralları değiştirilmedi."
   ]
 }
