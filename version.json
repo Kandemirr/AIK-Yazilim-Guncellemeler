@@ -1,16 +1,9 @@
 {
-  "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "1.0.39",
-  "releaseDate": "2026-09-10",
+  "version": "1.0.40",
+  "releaseDate": "2026-09-11",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.40/AIK_Yazilim_DersDagitim_Setup_1.0.40.exe",
+  "sha256": "C6295E8B3D5F3F13FAB82E648D198D024BB5E440094523505EC975F2A5507EFA",
+  "size": 68009720,
   "mandatory": false,
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.39/AIK_Yazilim_DersDagitim_Setup_1.0.39.exe",
-  "sha256": "3E0D994287EE4C5C996C9235B9E8826311C086CCD01B910A16ACE7A2ECD90819",
-  "sizeBytes": 67998122,
-  "notes": [
-    "İdarecilerin normal nöbet yerlerine yazılmaması hakkında görünür kullanıcı uyarısı eklendi.",
-    "Yarım gün çiftleri iki ayrı günde yarımşar nöbetle toplam bir tam nöbet yüküne tamamlanıyor.",
-    "Uygun çift günü bulunamazsa öğretmenler normal nöbet havuzunda değerlendiriliyor.",
-    "İkili öğretim, gerçek hafta sıfırlaması ve nöbet dönemi tarih üretimi düzeltildi.",
-    "Öğretmene özel ders programını WhatsApp'ta hazırlama özelliği eklendi."
-  ]
+  "notes": "Yarım gün nöbet çiftleri gün bazında eşleştirildi; tatil günleri ve ay sınırını aşan nöbet dönemleri desteklendi."
 }
