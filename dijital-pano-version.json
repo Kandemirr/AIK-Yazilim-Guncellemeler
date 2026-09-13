@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.8/AIK_Yazilim_DijitalPano_Update_1.0.8.zip",
-  "sha256": "C912733B08C7C0C2B2998910E90EA8A80FFF3E54BF117AAB12EFA1FF60CBF65E",
-  "sizeBytes": 77369921,
-  "releaseNotes": "Medya fotoğrafları normal ve tam ekranda kırpılmadan, en-boy oranı korunarak gösterilir. Slayt Klasörü (Resimler) alanına Temizle butonu eklendi. Temizle ardından Kaydet ile klasör seçimi kaldırılır; fotoğraf dosyaları silinmez."
+  "version": "1.0.9",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.9/AIK_Yazilim_DijitalPano_Update_1.0.9.zip",
+  "sha256": "7F61B57B23253345E75E1567DE68DBC93235A011087F88089E64525583DA41C3",
+  "sizeBytes": 77370118,
+  "releaseNotes": "Koyu temada nöbetçi öğretmenler tablosunun arka planı diğer panellerle uyumlu hale getirildi. Öğretmen adları, görev yerleri ve sütun başlıkları açık renkle gösterilir. İdareci satırı temaya uygun vurgulanır. Tema değişiklikleri mevcut satırlara anında uygulanır."
 }
