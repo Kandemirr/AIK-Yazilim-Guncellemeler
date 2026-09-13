@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.7/AIK_Yazilim_DijitalPano_Update_1.0.7.zip",
-  "sha256": "AA325BC27EA3C4FA05F6E959E0E268DD7B037F5990602F425AE1115396480DA6",
-  "sizeBytes": 75083898,
-  "releaseNotes": "Lisans deneme süresi 100 gün olarak güncellendi. Yardım bölümüne Telefonla Yerel Ağ Kontrolü anlatımı eklendi. Mobil kontrol için aynı yerel ağ, eşleştirme kodu, kayıtlı telefonlar, yönetici parolası ve erişilebilen pano ayarları açıklandı. Lisans ve genel ipuçları metinleri güncellendi."
+  "version": "1.0.8",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.8/AIK_Yazilim_DijitalPano_Update_1.0.8.zip",
+  "sha256": "C912733B08C7C0C2B2998910E90EA8A80FFF3E54BF117AAB12EFA1FF60CBF65E",
+  "sizeBytes": 77369921,
+  "releaseNotes": "Medya fotoğrafları normal ve tam ekranda kırpılmadan, en-boy oranı korunarak gösterilir. Slayt Klasörü (Resimler) alanına Temizle butonu eklendi. Temizle ardından Kaydet ile klasör seçimi kaldırılır; fotoğraf dosyaları silinmez."
 }
