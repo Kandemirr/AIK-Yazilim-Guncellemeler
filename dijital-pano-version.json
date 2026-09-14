@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.9/AIK_Yazilim_DijitalPano_Update_1.0.9.zip",
-  "sha256": "7F61B57B23253345E75E1567DE68DBC93235A011087F88089E64525583DA41C3",
-  "sizeBytes": 77370118,
-  "releaseNotes": "Koyu temada nöbetçi öğretmenler tablosunun arka planı diğer panellerle uyumlu hale getirildi. Öğretmen adları, görev yerleri ve sütun başlıkları açık renkle gösterilir. İdareci satırı temaya uygun vurgulanır. Tema değişiklikleri mevcut satırlara anında uygulanır."
+  "version": "1.0.10",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.10/AIK_Yazilim_DijitalPano_Update_1.0.10.zip",
+  "sha256": "98AA6BD6CAB6252CED5187191A4DBEC58F014B25A5635A32D1B0287FE6E64C7D",
+  "sizeBytes": 77373356,
+  "releaseNotes": "Nöbetçi Excel tabloları sütun başlıklarına göre okunur; görev yerleri ve açıklamalar isim olarak eklenmez. Birleştirilmiş gün/idareci hücreleri ve çoklu öğretmen adları desteklenir. Sabahçı, Öğlenci ve Tam Gün için Örnek Excel İndir eklendi. Çok sayfalı dosyalar ve standart dışa aktarma biçimi doğru içe alınır. Güncellemeden sonra Excel dosyanızı yeniden yükleyip Kaydet düğmesine basın."
 }
