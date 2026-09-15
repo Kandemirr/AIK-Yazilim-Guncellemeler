@@ -1,7 +1,7 @@
 {
-  "version": "1.0.10",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.10/AIK_Yazilim_DijitalPano_Update_1.0.10.zip",
-  "sha256": "98AA6BD6CAB6252CED5187191A4DBEC58F014B25A5635A32D1B0287FE6E64C7D",
-  "sizeBytes": 77373356,
-  "releaseNotes": "Nöbetçi Excel tabloları sütun başlıklarına göre okunur; görev yerleri ve açıklamalar isim olarak eklenmez. Birleştirilmiş gün/idareci hücreleri ve çoklu öğretmen adları desteklenir. Sabahçı, Öğlenci ve Tam Gün için Örnek Excel İndir eklendi. Çok sayfalı dosyalar ve standart dışa aktarma biçimi doğru içe alınır. Güncellemeden sonra Excel dosyanızı yeniden yükleyip Kaydet düğmesine basın."
+  "version": "1.0.11",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.11/AIK_Yazilim_DijitalPano_Update_1.0.11.zip",
+  "sha256": "1A6A34F01C9F450AD5221A6CA06FED9A7B6D843EBE71A8493F190AD8904EB302",
+  "sizeBytes": 77376589,
+  "releaseNotes": "Web video tam ekran düğmesi ve sessiz oynatma düzeltildi. Sabahçı ve öğlenci Excel listeleri birlikte saklanır; yeni yükleme diğer vardiyaları silmez. Nöbetçi paneli ilk öğlenci ders zilinde otomatik geçiş yapar. Görev yerinde vardiya etiketi gösterilmez. Excel dışa aktarımı vardiyalara göre ayrı sayfalar oluşturur; Sabahçı + Öğlenci örneği eklendi. Her iki dosyayı yükledikten sonra Kaydet düğmesine basın."
 }
