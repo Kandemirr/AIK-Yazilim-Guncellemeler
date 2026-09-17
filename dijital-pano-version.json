@@ -1,7 +1,7 @@
 {
-  "version": "1.0.11",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.11/AIK_Yazilim_DijitalPano_Update_1.0.11.zip",
-  "sha256": "1A6A34F01C9F450AD5221A6CA06FED9A7B6D843EBE71A8493F190AD8904EB302",
-  "sizeBytes": 77376589,
-  "releaseNotes": "Web video tam ekran düğmesi ve sessiz oynatma düzeltildi. Sabahçı ve öğlenci Excel listeleri birlikte saklanır; yeni yükleme diğer vardiyaları silmez. Nöbetçi paneli ilk öğlenci ders zilinde otomatik geçiş yapar. Görev yerinde vardiya etiketi gösterilmez. Excel dışa aktarımı vardiyalara göre ayrı sayfalar oluşturur; Sabahçı + Öğlenci örneği eklendi. Her iki dosyayı yükledikten sonra Kaydet düğmesine basın."
+  "version": "1.0.12",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.12/AIK_Yazilim_DijitalPano_Update_1.0.12.zip",
+  "sha256": "78C1E8278403DCAD1C53C60F9360484477A24AE01A5D30A85BEAC18440577962",
+  "sizeBytes": 77380809,
+  "releaseNotes": "Günün Sözü alanına A−/A+ düğmeleri ve 12–72 arası yazı boyutu ayarı eklendi. Uzun sözler alana sığmadığında otomatik yukarı kayar; kısa sözler sabit kalır. Excelden Yükle (.xlsx) ile Söz ve isteğe bağlı Yazar sütunları içe aktarılır; mevcut liste korunur, tekrarlar atlanır. Yönetim > Günün Sözü bölümünde değişiklikten sonra Kaydet düğmesine basın."
 }
