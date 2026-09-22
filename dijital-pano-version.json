@@ -1,7 +1,7 @@
 {
-  "version": "1.0.13",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.13/AIK_Yazilim_DijitalPano_Update_1.0.13.zip",
-  "sha256": "CC7D057521B28A3CEF723D703282FEACA920A1BC2E24B0E5FFCE35F849D7F16D",
-  "sizeBytes": 77384503,
-  "releaseNotes": "Nöbetçi Excel okuyucusu yatay, dikey ve gün-sütunlu tabloları başlıklara göre algılar. Tarihli haftalar ayrı tutulur; imzalar ve açıklamalar kayıt yapılmaz. Yükleme önizlemesi, tarih/gün uyuşmazlığı uyarısı ve isteğe bağlı yıl düzeltme eklendi. Tanınmayan tabloda mevcut liste korunur. Excel yükledikten sonra önizlemeyi kontrol edip Bu Kayıtları Listeye Al ve Kaydet düğmelerini kullanın."
+  "version": "1.0.14",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.14/AIK_Yazilim_DijitalPano_Update_1.0.14.zip",
+  "sha256": "DD5459B61B31D22A923B64F6C4544E460237424A20E8340CB69E88B6CE94DC8A",
+  "sizeBytes": 77388757,
+  "releaseNotes": "Doğum günü listeleri Excel dosyasından aktarılabilir. Doğum günü gelen kişiler unvana uygun mesajlarla gösterilir. Fotoğrafı olmayan kişilerde cinsiyete uygun renkli silüet kullanılır. Aynı gün doğanların kartları 15 saniyede bir değişir. Tekrar yüklemede mevcut fotoğraflar korunur. Yönetim > Doğum Günleri bölümünden Excel yükleyip Kaydet düğmesine basın."
 }
