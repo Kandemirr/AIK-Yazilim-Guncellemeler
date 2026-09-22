@@ -1,7 +1,7 @@
 {
-  "version": "1.0.14",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.14/AIK_Yazilim_DijitalPano_Update_1.0.14.zip",
-  "sha256": "DD5459B61B31D22A923B64F6C4544E460237424A20E8340CB69E88B6CE94DC8A",
-  "sizeBytes": 77388757,
-  "releaseNotes": "Doğum günü listeleri Excel dosyasından aktarılabilir. Doğum günü gelen kişiler unvana uygun mesajlarla gösterilir. Fotoğrafı olmayan kişilerde cinsiyete uygun renkli silüet kullanılır. Aynı gün doğanların kartları 15 saniyede bir değişir. Tekrar yüklemede mevcut fotoğraflar korunur. Yönetim > Doğum Günleri bölümünden Excel yükleyip Kaydet düğmesine basın."
+  "version": "1.0.15",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.15/AIK_Yazilim_DijitalPano_Update_1.0.15.zip",
+  "sha256": "7F15034A09FC2AD9FA8C93F06B05F7648B958282A7C2611AF23BDFA083650818",
+  "sizeBytes": 77390733,
+  "releaseNotes": "Doğum Günleri bölümüne Örnek Excel Dışa Aktar düğmesi eklendi. Açıklamalı şablonda ünvan ve cinsiyet için açılır listeler bulunur. Öğrenci ve personel ayrımına göre mesaj seçilir. Ünvan sütunu varsa boş veya tanınmayan değerlerde sorunlu satır belirtilir. Ünvan sütunu olmayan eski öğrenci listeleri desteklenmeye devam eder. Şablondaki örnekleri kendi listenizle değiştirip yükleyin ve Kaydet düğmesine basın."
 }
