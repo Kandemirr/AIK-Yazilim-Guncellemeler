@@ -1,12 +1,12 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "1.0.40",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.40/AIK_Yazilim_DersDagitim_Setup_1.0.40.exe",
-  "sha256": "C6295E8B3D5F3F13FAB82E648D198D024BB5E440094523505EC975F2A5507EFA",
-  "sizeBytes": 68009720,
+  "version": "1.0.41",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v1.0.41/AIK_Yazilim_DersDagitim_Setup_1.0.41.exe",
+  "sha256": "303EC98A78C3506778B3AF5CA240206C4AF7B0DE0E1663AE59A719F63A44380D",
+  "sizeBytes": 68521266,
   "notes": [
-    "Yarım gün nöbet çiftleri gün bazında eşleştirildi.",
-    "Tatil günleri ve ay sınırını aşan nöbet dönemleri desteklendi.",
-    "İdarecilerin normal nöbet yerlerine dağıtılması engellendi."
+    "Öğretmen ders programları PDF olarak oluşturulabilir.",
+    "WhatsApp ve BİP üzerinden bireysel PDF paylaşımı eklendi.",
+    "Tüm öğretmenlerin birleşik ve ayrı PDF'leri grup paylaşımı için tek işlemle hazırlanabilir."
   ]
 }
