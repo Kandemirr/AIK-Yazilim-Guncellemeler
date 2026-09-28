@@ -1,12 +1,12 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "2.0.0",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v2.0.0/AIK_Yazilim_DersDagitim_Setup_2.0.0.exe",
-  "sha256": "D6E03DCD2B009288D516B6EF44C507E8FAFADE794BA4A9BEFBDFFCFCC61AC185",
-  "sizeBytes": 68534625,
+  "version": "2.0.1",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v2.0.1/AIK_Yazilim_DersDagitim_Setup_2.0.1.exe",
+  "sha256": "43ABD0283367A33438198C7FC6C950DAFB19E4ADEFCDE06B54A791576B392E38",
+  "sizeBytes": 68530209,
   "notes": [
-    "Ana sürüm 2.0.0'a yükseltildi.",
-    "WhatsApp ve BİP PDF paylaşımındaki Windows pano hatası giderildi.",
-    "Pano meşgul olsa bile PDF paylaşım akışı kesilmeden devam eder."
+    "PDF ve mesajlaşma işlemleri tek kategorili menü altında toplandı.",
+    "Seçili öğretmen ve tüm öğretmenler işlemleri ayrı alt menülere ayrıldı.",
+    "Dar ekranlarda araç çubuğunun sayfa düzenini bozması giderildi."
   ]
 }
