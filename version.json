@@ -1,12 +1,15 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "2.0.1",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v2.0.1/AIK_Yazilim_DersDagitim_Setup_2.0.1.exe",
-  "sha256": "43ABD0283367A33438198C7FC6C950DAFB19E4ADEFCDE06B54A791576B392E38",
-  "sizeBytes": 68530209,
+  "version": "2.0.2",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v2.0.2/AIK_Yazilim_DersDagitim_Setup_2.0.2.exe",
+  "sha256": "A42D5256AF6443DEDB5705BC9041EF57EFC45313F61020FF43659BE42856469D",
+  "sizeBytes": 68521888,
   "notes": [
-    "PDF ve mesajlaşma işlemleri tek kategorili menü altında toplandı.",
-    "Seçili öğretmen ve tüm öğretmenler işlemleri ayrı alt menülere ayrıldı.",
-    "Dar ekranlarda araç çubuğunun sayfa düzenini bozması giderildi."
+    "CP-SAT önce bütün ders bloklarını zorunlu tutarak eksiksiz program arar.",
+    "Sabit dersler matematiksel zorunluluk olarak korunur.",
+    "Günlük 3/2 ders sınırları Okul Bilgileri ekranından değiştirilebilir.",
+    "Eksik ders sayımı atama kimliği üzerinden yapılır.",
+    "Genişletilmiş onarım yalnızca kullanıcı onayıyla başlatılır.",
+    "Vardiyalar arasında öğretmenlerin kalan haftalık kapasitesi ortak takip edilir."
   ]
 }
