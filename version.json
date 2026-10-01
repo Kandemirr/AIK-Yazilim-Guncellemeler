@@ -1,15 +1,12 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "2.0.2",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v2.0.2/AIK_Yazilim_DersDagitim_Setup_2.0.2.exe",
-  "sha256": "A42D5256AF6443DEDB5705BC9041EF57EFC45313F61020FF43659BE42856469D",
-  "sizeBytes": 68521888,
+  "version": "2.0.3",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v2.0.3/AIK_Yazilim_DersDagitim_Setup_2.0.3.exe",
+  "sha256": "96A531C5295E3B1941BCECC78788542891AA7884EAD6447DCE9F209B05FE6C08",
+  "sizeBytes": 68529065,
   "notes": [
-    "CP-SAT önce bütün ders bloklarını zorunlu tutarak eksiksiz program arar.",
-    "Sabit dersler matematiksel zorunluluk olarak korunur.",
-    "Günlük 3/2 ders sınırları Okul Bilgileri ekranından değiştirilebilir.",
-    "Eksik ders sayımı atama kimliği üzerinden yapılır.",
-    "Genişletilmiş onarım yalnızca kullanıcı onayıyla başlatılır.",
-    "Vardiyalar arasında öğretmenlerin kalan haftalık kapasitesi ortak takip edilir."
+    "Bulut yedekleme kimliği etkin lisans üzerinden otomatik hazırlanır.",
+    "Kurum kodu ve gönderim anahtarı kullanıcıdan istenmez.",
+    "Oluşturulan yedek hemen gönderilir; başarısız gönderimler iki dakikada bir yeniden denenir."
   ]
 }
