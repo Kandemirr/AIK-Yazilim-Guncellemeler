@@ -1,12 +1,12 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "2.0.3",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v2.0.3/AIK_Yazilim_DersDagitim_Setup_2.0.3.exe",
-  "sha256": "96A531C5295E3B1941BCECC78788542891AA7884EAD6447DCE9F209B05FE6C08",
-  "sizeBytes": 68529065,
+  "version": "2.0.4",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v2.0.4/AIK_Yazilim_DersDagitim_Setup_2.0.4.exe",
+  "sha256": "5ED5DC1A92C967D7EEEFAF22A30055BEFB8A4913917BFBE98D4E366DBA8D84E2",
+  "sizeBytes": 68529262,
   "notes": [
-    "Bulut yedekleme kimliği etkin lisans üzerinden otomatik hazırlanır.",
-    "Kurum kodu ve gönderim anahtarı kullanıcıdan istenmez.",
-    "Oluşturulan yedek hemen gönderilir; başarısız gönderimler iki dakikada bir yeniden denenir."
+    "Eski yerel yedek adresleri otomatik olarak merkezi AİK bulut adresine taşınır.",
+    "Yedek gönderimi artık 127.0.0.1 yerine güvenli bulut hizmetine yapılır.",
+    "Bekleyen gönderimler iki dakikada bir yeniden denenir."
   ]
 }
