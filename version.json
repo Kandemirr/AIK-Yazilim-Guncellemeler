@@ -1,12 +1,12 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "2.0.5",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v2.0.5/AIK_Yazilim_DersDagitim_Setup_2.0.5.exe",
-  "sha256": "8AC9B2706F15F077A06153779997667DFEF2FFF275F5485DC65676B46382B60F",
-  "sizeBytes": 68527092,
+  "version": "2.0.6",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v2.0.6/AIK_Yazilim_DersDagitim_Setup_2.0.6.exe",
+  "sha256": "0CAA3E5E43991920F62B75B648FC038ED82457E18519D53466EAFBF7AC32AF27",
+  "sizeBytes": 68521709,
   "notes": [
-    "Nöbet gününde ilk ve son dersi bulunan öğretmenlere öncelik verilir.",
-    "Bu koşul nedeniyle nöbetsiz kalacak muaf olmayan öğretmen en uygun ders gününde görevlendirilir.",
-    "Müdür, müdür yardımcıları ve nöbetten muaf öğretmenler normal nöbet havuzuna alınmaz."
+    "Nöbet günü seçiminde öğretmenin gerçek günlük uygunluğu önceliklidir.",
+    "Günün başında ve sonunda boş kalan her ders saati ayrı değerlendirilir.",
+    "Muaf olmayan öğretmenleri nöbetsiz bırakmayan telafi davranışı korunur."
   ]
 }
