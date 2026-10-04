@@ -1,12 +1,12 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "2.0.6",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v2.0.6/AIK_Yazilim_DersDagitim_Setup_2.0.6.exe",
-  "sha256": "0CAA3E5E43991920F62B75B648FC038ED82457E18519D53466EAFBF7AC32AF27",
-  "sizeBytes": 68521709,
+  "version": "2.0.7",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v2.0.7/AIK_Yazilim_DersDagitim_Setup_2.0.7.exe",
+  "sha256": "995710F9406AF82765EC1F57AB71B7261E08B7E2475A4133603571F1F31AE7FB",
+  "sizeBytes": 68534527,
   "notes": [
-    "Nöbet günü seçiminde öğretmenin gerçek günlük uygunluğu önceliklidir.",
-    "Günün başında ve sonunda boş kalan her ders saati ayrı değerlendirilir.",
-    "Muaf olmayan öğretmenleri nöbetsiz bırakmayan telafi davranışı korunur."
+    "Sınıf Programı ekranına PDF çıktı menüsü eklendi.",
+    "Tüm sınıflar tek birleşik PDF ve ayrı sınıf PDF'leri olarak oluşturulabilir.",
+    "Sınıf PDF hücrelerinde ders ve öğretmen bilgileri birlikte gösterilir."
   ]
 }
