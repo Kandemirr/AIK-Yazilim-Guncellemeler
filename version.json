@@ -1,12 +1,13 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "2.0.7",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v2.0.7/AIK_Yazilim_DersDagitim_Setup_2.0.7.exe",
-  "sha256": "995710F9406AF82765EC1F57AB71B7261E08B7E2475A4133603571F1F31AE7FB",
-  "sizeBytes": 68534527,
+  "version": "2.0.8",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v2.0.8/AIK_Yazilim_DersDagitim_Setup_2.0.8.exe",
+  "sha256": "9469AF45D2EDCB20A4F0D315FE36C26611F9BB6CBD93AAA934FDA3EC0B737209",
+  "sizeBytes": 68527995,
   "notes": [
-    "Sınıf Programı ekranına PDF çıktı menüsü eklendi.",
-    "Tüm sınıflar tek birleşik PDF ve ayrı sınıf PDF'leri olarak oluşturulabilir.",
-    "Sınıf PDF hücrelerinde ders ve öğretmen bilgileri birlikte gösterilir."
+    "Excel ve PDF çıktılarında gereksiz sabahçı/öğlenci kısaltmaları kaldırıldı.",
+    "S ve Ö kısaltmaları yalnızca hem sabah hem öğlen derse giren öğretmenlerde gösterilir.",
+    "Öğretmen programı PDF'si tek sayfada kesime uygun iki aynı tablo olarak hazırlanır.",
+    "Her program kopyasına öğretmen/branş, ilgili müdür yardımcısı ve okul müdürü imza alanları eklendi."
   ]
 }
