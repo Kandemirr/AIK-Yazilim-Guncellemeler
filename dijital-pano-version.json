@@ -1,7 +1,7 @@
 {
-  "version": "1.0.16",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v1.0.16/AIK_Yazilim_DijitalPano_Update_1.0.16.zip",
-  "sha256": "63BE7D6B6EBD54CFD3F97E45C16E4C0343906EEBAF6FCC8FBBD04E60591A721A",
-  "sizeBytes": 77391756,
-  "releaseNotes": "Okul meclisi listesinin yaklaşık altı kişiden sonra başa dönmesi düzeltildi. Tüm üyeler sırayla gösterilir; fotoğraflar ve isimler alana göre büyür. Okul Meclisi ayarlarındaki Poster Seç düğmesi ve afiş/poster seçeneğiyle görsel hem meclis hem medya alanında kesilmeden gösterilir. Poster kapatılınca mevcut üye listesine dönülür. Seçimin ardından Kaydet düğmesine basın."
+  "version": "2.0.0",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v2.0.0/AIK_Yazilim_DijitalPano_Update_2.0.0.zip",
+  "sha256": "D18A386DE557930790FEC23C333AA03744952DD471F9FB144105A5852E139ADF",
+  "sizeBytes": 77391709,
+  "releaseNotes": "Okul meclisi posterinin üye gösterimini durdurması düzeltildi. Poster açıkken sıra: poster, listedeki tüm üyeler, ardından tekrar poster. İsimler ve fotoğraflar meclis slayt süresine göre gösterilir. Pano yenilenirken sıra korunur. Poster medya alanında da gösterilmeye devam eder. Mevcut meclis kayıtları ve poster ayarı korunur."
 }
