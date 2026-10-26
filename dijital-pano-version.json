@@ -1,7 +1,7 @@
 {
-  "version": "2.0.0",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v2.0.0/AIK_Yazilim_DijitalPano_Update_2.0.0.zip",
-  "sha256": "D18A386DE557930790FEC23C333AA03744952DD471F9FB144105A5852E139ADF",
-  "sizeBytes": 77391709,
-  "releaseNotes": "Okul meclisi posterinin üye gösterimini durdurması düzeltildi. Poster açıkken sıra: poster, listedeki tüm üyeler, ardından tekrar poster. İsimler ve fotoğraflar meclis slayt süresine göre gösterilir. Pano yenilenirken sıra korunur. Poster medya alanında da gösterilmeye devam eder. Mevcut meclis kayıtları ve poster ayarı korunur."
+  "version": "2.0.1",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v2.0.1/AIK_Yazilim_DijitalPano_Update_2.0.1.zip",
+  "sha256": "4629A0335E20B44C19FA9150E2E6B75F4793D4CE70AE85558F170B52184C9078",
+  "sizeBytes": 77391848,
+  "releaseNotes": "Millî temada meclis metinleri koyu kırmızı içerik rengine bağlandı ve ay-yıldız filigranı metinlerin arkasına alındı. İçerik rengi ayarı meclis, doğum günü, nöbetçi listesi, zil ve etkinlik metinlerinde uygulanır. Başlık ve içerik renkleri bağımsızdır. Beyaz ve Açık Gri içerik renkleri eklendi. Varsayılan seçeneği tema renklerini geri getirir."
 }
