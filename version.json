@@ -1,13 +1,14 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "2.0.8",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v2.0.8/AIK_Yazilim_DersDagitim_Setup_2.0.8.exe",
-  "sha256": "9469AF45D2EDCB20A4F0D315FE36C26611F9BB6CBD93AAA934FDA3EC0B737209",
-  "sizeBytes": 68527995,
+  "version": "2.0.9",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v2.0.9/AIK_Yazilim_DersDagitim_Setup_2.0.9.exe",
+  "sha256": "6B91673A18C44F83682E5890C4F2E1BCCAD97CC245E7083B9625CD2527024F76",
+  "sizeBytes": 68543849,
   "notes": [
-    "Excel ve PDF çıktılarında gereksiz sabahçı/öğlenci kısaltmaları kaldırıldı.",
-    "S ve Ö kısaltmaları yalnızca hem sabah hem öğlen derse giren öğretmenlerde gösterilir.",
-    "Öğretmen programı PDF'si tek sayfada kesime uygun iki aynı tablo olarak hazırlanır.",
-    "Her program kopyasına öğretmen/branş, ilgili müdür yardımcısı ve okul müdürü imza alanları eklendi."
+    "AI Analiz Asistanına konuşma hafızası ve doğal dil komut çözümleme eklendi.",
+    "Program için açıklanabilir kalite puanı ve önce/sonra senaryo karşılaştırması eklendi.",
+    "Aynı sınıfa giren öğretmenler arasında iki adımlı ve üç derslik zincirleme takas aranıyor.",
+    "Çok adımlı takaslar kilit, sabit ders ve çakışma denetiminden geçerek atomik uygulanıyor.",
+    "Konuşma bağlamını sıfırlamak için Konuşmayı Temizle düğmesi eklendi."
   ]
 }
