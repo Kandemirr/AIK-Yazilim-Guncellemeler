@@ -1,13 +1,14 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "2.0.11",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v2.0.11/AIK_Yazilim_DersDagitim_Setup_2.0.11.exe",
-  "sha256": "1CCBE8DDAC6EBCDE3D909B32DE900791F826888CF142A87539A7CC816EDE3A90",
-  "sizeBytes": 68530705,
+  "version": "2.0.12",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v2.0.12/AIK_Yazilim_DersDagitim_Setup_2.0.12.exe",
+  "sha256": "E6CD3350163E66CA1E91F4D57C8F780027DD730FFAE6653D102867438D981C9C",
+  "sizeBytes": 68538323,
   "notes": [
-    "Öğretmen adı içeren boşluk azaltma ve takas komutları doğrudan program motoruyla yanıtlanır.",
-    "Hedef öğretmenin gün gün dersleri ve gerçek boş saatleri açıkça gösterilir.",
-    "Hedefli takas araması hızlandırıldı ve alakasız AI yanıtları engellendi.",
-    "Genel AİK Dil Motoru yanıt süresi optimize edildi."
+    "AI Analiz Asistanı profesyonel hibrit analiz mimarisine geçirildi.",
+    "Matematik ve program verisi soruları dil modeli beklenmeden anında yanıtlanır.",
+    "Hızlı Mod ve Ayrıntılı Mod seçenekleri eklendi.",
+    "Dil motoru arka planda hazırlanarak genel sorulardaki bekleme azaltıldı.",
+    "Hedef öğretmenli boşluk azaltma ve takas analizleri hızlandırıldı."
   ]
 }
