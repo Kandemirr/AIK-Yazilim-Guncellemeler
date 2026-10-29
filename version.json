@@ -1,14 +1,14 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "2.0.9",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v2.0.9/AIK_Yazilim_DersDagitim_Setup_2.0.9.exe",
-  "sha256": "6B91673A18C44F83682E5890C4F2E1BCCAD97CC245E7083B9625CD2527024F76",
-  "sizeBytes": 68543849,
+  "version": "2.0.10",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v2.0.10/AIK_Yazilim_DersDagitim_Setup_2.0.10.exe",
+  "sha256": "0309CFAB384971B1278650A89FDE2189C7834E0B8A98C6A8928138EF8691BB1F",
+  "sizeBytes": 68543947,
   "notes": [
-    "AI Analiz Asistanına konuşma hafızası ve doğal dil komut çözümleme eklendi.",
-    "Program için açıklanabilir kalite puanı ve önce/sonra senaryo karşılaştırması eklendi.",
-    "Aynı sınıfa giren öğretmenler arasında iki adımlı ve üç derslik zincirleme takas aranıyor.",
-    "Çok adımlı takaslar kilit, sabit ders ve çakışma denetiminden geçerek atomik uygulanıyor.",
-    "Konuşma bağlamını sıfırlamak için Konuşmayı Temizle düğmesi eklendi."
+    "Ollama ve harici model adresi bağımlılığı kaldırıldı.",
+    "AİK Dil Paketi ilk kullanımda bir kez indirilip sonrasında tamamen çevrimdışı çalışır.",
+    "Yarım kalan yaklaşık 2,50 GB model indirmesi kaldığı yerden devam eder.",
+    "Model ve çalışma motoru SHA-256 doğrulamasından geçmeden çalıştırılmaz.",
+    "Dil paketi olmadan da teknik analiz, kalite puanı, çok adımlı takas ve CP-SAT onarımı çalışır."
   ]
 }
