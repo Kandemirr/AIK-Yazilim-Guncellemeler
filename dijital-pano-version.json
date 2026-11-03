@@ -1,7 +1,7 @@
 {
-  "version": "2.0.1",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v2.0.1/AIK_Yazilim_DijitalPano_Update_2.0.1.zip",
-  "sha256": "4629A0335E20B44C19FA9150E2E6B75F4793D4CE70AE85558F170B52184C9078",
-  "sizeBytes": 77391848,
-  "releaseNotes": "Millî temada meclis metinleri koyu kırmızı içerik rengine bağlandı ve ay-yıldız filigranı metinlerin arkasına alındı. İçerik rengi ayarı meclis, doğum günü, nöbetçi listesi, zil ve etkinlik metinlerinde uygulanır. Başlık ve içerik renkleri bağımsızdır. Beyaz ve Açık Gri içerik renkleri eklendi. Varsayılan seçeneği tema renklerini geri getirir."
+  "version": "2.0.2",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/dijital-pano-v2.0.2/AIK_Yazilim_DijitalPano_Update_2.0.2.zip",
+  "sha256": "41598D2C64FF974BAB8A5DC820F4F1E50119DC0EA5E6ACDB86ACB6ADADE3392C",
+  "sizeBytes": 77392192,
+  "releaseNotes": "Zil saatleri tablosunda Başlangıç ve Bitiş alanları doğrudan düzenlenebilir hale getirildi. Sınav derslerini örneğin 09:00–09:40 olarak ayarlayıp Kaydet düğmesine basabilirsiniz. Geçersiz saat veya başlangıçtan önce bitiş girildiğinde kayıt uyarısı gösterilir. Sonraki dersler otomatik kaydırılmaz; gerekirse ayrıca düzenlenir. Windows x64 sürümü."
 }
