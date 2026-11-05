@@ -1,14 +1,14 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "2.0.13",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v2.0.13/AIK_Yazilim_DersDagitim_Setup_2.0.13.exe",
-  "sha256": "D3A5CB431046895DB95DD5FA09CB02FD0AE836A010D7B8491596E0A266693FA4",
-  "sizeBytes": 68552807,
+  "version": "2.0.14",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v2.0.14/AIK_Yazilim_DersDagitim_Setup_2.0.14.exe",
+  "sha256": "AF52E9AE66C805C047BE6D18BB7082E6C481692648299755AE2A3863594B6540",
+  "sizeBytes": 68551619,
   "notes": [
-    "AİK Araç Sistemi ve yapılandırılmış güvenilir yanıtlar eklendi.",
-    "Genel dil yanıtları ekranda akışlı olarak gösterilir.",
-    "Donanıma göre hızlı veya dengeli dil modeli otomatik seçilir.",
-    "Sağ tık menüsüne 2-40 adımlık AİK zincir takas önerileri eklendi.",
-    "Ortak sınıftaki farklı öğretmen dersleri güvenli takaslarda birlikte değerlendirilir."
+    "Raporlu öğretmenlerin başka bir raporlu öğretmenin yerine görevlendirilmesi engellendi.",
+    "Yeni raporda bütün aktif ders karşılamaları birlikte yeniden hesaplanır.",
+    "Aynı dersi veren öğretmenler karşılamada en yüksek önceliği alır.",
+    "Yakın ders aileleri ve aynı branş sıralamada ayrıca değerlendirilir.",
+    "Görevlendirme gerekçelerinde ders yakınlığı gösterilir."
   ]
 }
