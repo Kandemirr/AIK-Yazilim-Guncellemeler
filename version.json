@@ -1,14 +1,13 @@
 {
   "product": "AİK Yazılım Ders Dağıtım Programı",
-  "version": "2.0.14",
-  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v2.0.14/AIK_Yazilim_DersDagitim_Setup_2.0.14.exe",
-  "sha256": "AF52E9AE66C805C047BE6D18BB7082E6C481692648299755AE2A3863594B6540",
-  "sizeBytes": 68551619,
+  "version": "2.0.15",
+  "downloadUrl": "https://github.com/Kandemirr/AIK-Yazilim-Guncellemeler/releases/download/v2.0.15/AIK_Yazilim_DersDagitim_Setup_2.0.15.exe",
+  "sha256": "42553E7D803FF9F64766F5C62880B7C84232F7CA6FD16EA73831133C477516F3",
+  "sizeBytes": 68552069,
   "notes": [
-    "Raporlu öğretmenlerin başka bir raporlu öğretmenin yerine görevlendirilmesi engellendi.",
-    "Yeni raporda bütün aktif ders karşılamaları birlikte yeniden hesaplanır.",
-    "Aynı dersi veren öğretmenler karşılamada en yüksek önceliği alır.",
-    "Yakın ders aileleri ve aynı branş sıralamada ayrıca değerlendirilir.",
-    "Görevlendirme gerekçelerinde ders yakınlığı gösterilir."
+    "Ön kontrole gün ve ders saati bazında eşzamanlı öğretmen kapasitesi denetimi eklendi.",
+    "Zorunlu sınıf sayısı müsait öğretmen sayısını aşıyorsa eksik öğretmen sayısı gösterilir.",
+    "Matematiksel olarak imkânsız programlarda program motorunun başlatılması engellendi.",
+    "AI Analiz Asistanı kapasite darboğazlarını kritik uyarı olarak bildirir."
   ]
 }
